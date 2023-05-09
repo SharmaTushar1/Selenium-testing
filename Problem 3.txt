@@ -1,0 +1,13 @@
+Step1: install the required libraries like selenium and beautifulsoup for scrapping and others.
+
+Step2: 
+setup the selenium web driver with options that will be used
+
+Step3:
+go the navigation page and wait for it to load first we can use WebDriverWait for that and after 
+
+Step 4: Extract the product URLS from the category page.
+
+Step 5: Scrape product data from each product page.
+
+Step 6: Iterate through products url over and over until we get the product data and extract them finally.
